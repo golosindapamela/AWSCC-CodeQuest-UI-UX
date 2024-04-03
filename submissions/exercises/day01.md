@@ -1,6 +1,6 @@
 ## DAY 1: Introduction to UI/UX Design! 💖
 
-<img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
+<img align="middle" width="250px" src="../../assets/alf/alf-ufo.png">
 
 
 
