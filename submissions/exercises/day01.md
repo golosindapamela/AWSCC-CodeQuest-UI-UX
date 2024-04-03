@@ -1,10 +1,8 @@
 ## DAY 1: Introduction to UI/UX Design! 💖
 
-<img align="middle" width="250px" src="../../assets/alf/alf-ufo.png">
+<img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
 
 #### 1. UI and UX analyses for Day 1
-
-<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**User-Experience Analysis:**<br/>
 
 -   Which website is easier to find the product you are looking for?<br/>
@@ -30,6 +28,6 @@
     <br>
 
 #### 2. An **optional** screenshot of playing the game **"It's Centred That"** and your feedback
-![Screenshot (641)](https://github.com/golosindapamela/AWSCC-CodeQuest-UI-UX/assets/148712358/17b492bb-c481-4137-969c-64154f95c1ae)
-    Feedback: It's a fun and challenging game that triggers both my inner competitiveness and patience.
+![Screenshot (641)](https://github.com/golosindapamela/AWSCC-CodeQuest-UI-UX/assets/148712358/602f70e6-a8d3-4b66-b490-522c3b9d2478)
 
+Feedback: It's a fun and challenging game that triggers both my inner competitiveness and patience.
