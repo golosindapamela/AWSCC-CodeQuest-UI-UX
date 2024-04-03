@@ -2,6 +2,9 @@
 
 <img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
 
+
+
+
 #### 1. UI and UX analyses for Day 1
 
 <br/><br/>
