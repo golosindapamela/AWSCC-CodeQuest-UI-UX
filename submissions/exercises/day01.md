@@ -30,4 +30,4 @@
 #### 2. An **optional** screenshot of playing the game **"It's Centred That"** and your feedback
 ![Screenshot (641)](https://github.com/golosindapamela/AWSCC-CodeQuest-UI-UX/assets/148712358/602f70e6-a8d3-4b66-b490-522c3b9d2478)
 
-Feedback: It's a fun and challenging game that triggers both my inner competitiveness and patience.
+Feedback: It's a fun and challenging game that triggers both my inner competitiveness and patience. It really tests your accuracy in finding the center of an object/shape.
